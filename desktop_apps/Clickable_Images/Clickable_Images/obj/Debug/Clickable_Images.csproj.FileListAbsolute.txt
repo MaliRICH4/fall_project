@@ -1,0 +1,10 @@
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.csprojAssemblyReference.cache
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.frmClickableImage.resources
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.Properties.Resources.resources
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.csproj.GenerateResource.cache
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.csproj.CoreCompileInputs.cache
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\bin\Debug\Clickable_Images.exe.config
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\bin\Debug\Clickable_Images.exe
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\bin\Debug\Clickable_Images.pdb
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.exe
+C:\Users\JacksonS\source\repos\Clickable_Images\Clickable_Images\obj\Debug\Clickable_Images.pdb

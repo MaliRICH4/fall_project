@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clickable_Images", "Clickable_Images\Clickable_Images.csproj", "{2C29358F-4775-4D6F-8B3C-558E6035E63C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C29358F-4775-4D6F-8B3C-558E6035E63C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C29358F-4775-4D6F-8B3C-558E6035E63C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C29358F-4775-4D6F-8B3C-558E6035E63C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C29358F-4775-4D6F-8B3C-558E6035E63C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4DA8727-E62E-41D8-BEA6-5BF927824E5E}
+	EndGlobalSection
+EndGlobal
